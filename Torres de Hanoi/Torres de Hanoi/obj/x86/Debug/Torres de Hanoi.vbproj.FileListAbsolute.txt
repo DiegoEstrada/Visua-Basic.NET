@@ -1,0 +1,27 @@
+C:\Users\Mini Dell\Desktop\Torres de Hanoi\Torres de Hanoi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mini Dell\Desktop\Torres de Hanoi\Torres de Hanoi\obj\x86\Debug\Torres_de_Hanoi.Form1.resources
+C:\Users\Mini Dell\Desktop\Torres de Hanoi\Torres de Hanoi\obj\x86\Debug\Torres_de_Hanoi.Resources.resources
+C:\Users\Mini Dell\Desktop\Torres de Hanoi\Torres de Hanoi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mini Dell\Desktop\Torres de Hanoi\Torres de Hanoi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mini Dell\Desktop\Torres de Hanoi\Torres de Hanoi\bin\Debug\Torres de Hanoi.exe
+C:\Users\Mini Dell\Desktop\Torres de Hanoi\Torres de Hanoi\bin\Debug\Torres de Hanoi.pdb
+C:\Users\Mini Dell\Desktop\Torres de Hanoi\Torres de Hanoi\bin\Debug\Torres de Hanoi.xml
+C:\Users\Mini Dell\Desktop\Torres de Hanoi\Torres de Hanoi\obj\x86\Debug\Torres de Hanoi.exe
+C:\Users\Mini Dell\Desktop\Torres de Hanoi\Torres de Hanoi\obj\x86\Debug\Torres de Hanoi.xml
+C:\Users\Mini Dell\Desktop\Torres de Hanoi\Torres de Hanoi\obj\x86\Debug\Torres de Hanoi.pdb
+C:\Users\CECYT-8\Desktop\Torres de Hanoi\Torres de Hanoi\obj\x86\Debug\Torres de Hanoi.exe
+C:\Users\CECYT-8\Desktop\Torres de Hanoi\Torres de Hanoi\obj\x86\Debug\Torres de Hanoi.xml
+C:\Users\CECYT-8\Desktop\Torres de Hanoi\Torres de Hanoi\obj\x86\Debug\Torres de Hanoi.pdb
+C:\Users\CECYT-8\Desktop\Torres de Hanoi\Torres de Hanoi\bin\Debug\Torres de Hanoi.exe
+C:\Users\CECYT-8\Desktop\Torres de Hanoi\Torres de Hanoi\bin\Debug\Torres de Hanoi.pdb
+C:\Users\CECYT-8\Desktop\Torres de Hanoi\Torres de Hanoi\bin\Debug\Torres de Hanoi.xml
+C:\Users\CECYT-8\Desktop\Torres de Hanoi\Torres de Hanoi\obj\x86\Debug\Torres_de_Hanoi.Form1.resources
+C:\Users\CECYT-8\Desktop\Torres de Hanoi\Torres de Hanoi\obj\x86\Debug\Torres_de_Hanoi.Resources.resources
+C:\Users\CECYT-8\Desktop\Torres de Hanoi\Torres de Hanoi\obj\x86\Debug\Torres de Hanoi.vbproj.GenerateResource.Cache
+C:\Users\CECYT-8\Desktop\Torres de Hanoi\Torres de Hanoi\obj\x86\Debug\Torres_de_Hanoi.Form2.resources
+E:\Torres de Hanoi\Torres de Hanoi\obj\x86\Debug\Torres de Hanoi.exe
+E:\Torres de Hanoi\Torres de Hanoi\obj\x86\Debug\Torres de Hanoi.xml
+E:\Torres de Hanoi\Torres de Hanoi\obj\x86\Debug\Torres de Hanoi.pdb
+D:\Torres de Hanoi\Torres de Hanoi\obj\x86\Debug\Torres de Hanoi.exe
+D:\Torres de Hanoi\Torres de Hanoi\obj\x86\Debug\Torres de Hanoi.xml
+D:\Torres de Hanoi\Torres de Hanoi\obj\x86\Debug\Torres de Hanoi.pdb
