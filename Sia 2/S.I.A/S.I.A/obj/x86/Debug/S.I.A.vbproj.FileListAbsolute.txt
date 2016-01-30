@@ -1,0 +1,97 @@
+C:\Users\cuates\Desktop\Sistema de Información Académica\S.I.A\S.I.A\bin\Debug\S.I.A.exe
+C:\Users\cuates\Desktop\Sistema de Información Académica\S.I.A\S.I.A\bin\Debug\S.I.A.pdb
+C:\Users\cuates\Desktop\Sistema de Información Académica\S.I.A\S.I.A\bin\Debug\S.I.A.xml
+C:\Users\cuates\Desktop\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\sia.Form1.resources
+C:\Users\cuates\Desktop\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\sia.Resources.resources
+C:\Users\cuates\Desktop\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\sia.Visitantes.resources
+C:\Users\cuates\Desktop\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\S.I.A.vbproj.GenerateResource.Cache
+C:\Users\cuates\Desktop\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\S.I.A.exe
+C:\Users\cuates\Desktop\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\S.I.A.xml
+C:\Users\cuates\Desktop\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\S.I.A.pdb
+D:\Proyecto_Informático\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\S.I.A.exe
+D:\Proyecto_Informático\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\S.I.A.xml
+D:\Proyecto_Informático\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\S.I.A.pdb
+D:\Proyecto_Informático\Sistema de Información Académica\S.I.A\S.I.A\bin\Debug\S.I.A.exe
+D:\Proyecto_Informático\Sistema de Información Académica\S.I.A\S.I.A\bin\Debug\S.I.A.pdb
+D:\Proyecto_Informático\Sistema de Información Académica\S.I.A\S.I.A\bin\Debug\S.I.A.xml
+D:\Proyecto_Informático\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\sia.Resources.resources
+D:\Proyecto_Informático\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\sia.Visitantes.resources
+D:\Proyecto_Informático\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\S.I.A.vbproj.GenerateResource.Cache
+D:\Proyecto_Informático\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\sia.Alumnos.resources
+D:\Proyecto_Informático\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\sia.Principal.resources
+E:\Proyecto_Informático\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\S.I.A.exe
+E:\Proyecto_Informático\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\S.I.A.xml
+E:\Proyecto_Informático\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\S.I.A.pdb
+E:\Proyecto_Informático\Sistema de Información Académica\S.I.A\S.I.A\bin\Debug\S.I.A.exe
+E:\Proyecto_Informático\Sistema de Información Académica\S.I.A\S.I.A\bin\Debug\S.I.A.pdb
+E:\Proyecto_Informático\Sistema de Información Académica\S.I.A\S.I.A\bin\Debug\S.I.A.xml
+E:\Proyecto_Informático\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\sia.Alumnos.resources
+E:\Proyecto_Informático\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\sia.Principal.resources
+E:\Proyecto_Informático\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\sia.Resources.resources
+E:\Proyecto_Informático\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\sia.Visitantes.resources
+E:\Proyecto_Informático\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\S.I.A.vbproj.GenerateResource.Cache
+E:\Proyecto_Informático\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\sia.Eventos.resources
+C:\Users\Diego EG\Desktop\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\S.I.A.exe
+C:\Users\Diego EG\Desktop\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\S.I.A.xml
+C:\Users\Diego EG\Desktop\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\S.I.A.pdb
+C:\Users\Diego EG\Desktop\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\sia.Alumnos.resources
+C:\Users\Diego EG\Desktop\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\sia.Eventos.resources
+C:\Users\Diego EG\Desktop\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\sia.Principal.resources
+C:\Users\Diego EG\Desktop\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\sia.Resources.resources
+C:\Users\Diego EG\Desktop\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\sia.Visitantes.resources
+C:\Users\Diego EG\Desktop\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\S.I.A.vbproj.GenerateResource.Cache
+C:\Users\Diego EG\Desktop\Sistema de Información Académica\S.I.A\S.I.A\bin\Debug\S.I.A.exe
+C:\Users\Diego EG\Desktop\Sistema de Información Académica\S.I.A\S.I.A\bin\Debug\S.I.A.pdb
+C:\Users\Diego EG\Desktop\Sistema de Información Académica\S.I.A\S.I.A\bin\Debug\S.I.A.xml
+C:\Users\cecyt-8\Downloads\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\S.I.A.exe
+C:\Users\cecyt-8\Downloads\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\S.I.A.xml
+C:\Users\cecyt-8\Downloads\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\S.I.A.pdb
+C:\Users\cecyt-8\Downloads\Sistema de Información Académica\S.I.A\S.I.A\bin\Debug\S.I.A.exe
+C:\Users\cecyt-8\Downloads\Sistema de Información Académica\S.I.A\S.I.A\bin\Debug\S.I.A.pdb
+C:\Users\cecyt-8\Downloads\Sistema de Información Académica\S.I.A\S.I.A\bin\Debug\S.I.A.xml
+C:\Users\cecyt-8\Downloads\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\sia.Alumnos.resources
+C:\Users\cecyt-8\Downloads\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\sia.Eventos.resources
+C:\Users\cecyt-8\Downloads\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\sia.Principal.resources
+C:\Users\cecyt-8\Downloads\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\sia.Resources.resources
+C:\Users\cecyt-8\Downloads\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\sia.Visitantes.resources
+C:\Users\cecyt-8\Downloads\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\S.I.A.vbproj.GenerateResource.Cache
+E:\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\S.I.A.exe
+E:\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\S.I.A.xml
+E:\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\S.I.A.pdb
+E:\Sistema de Información Académica\S.I.A\S.I.A\bin\Debug\S.I.A.exe
+E:\Sistema de Información Académica\S.I.A\S.I.A\bin\Debug\S.I.A.pdb
+E:\Sistema de Información Académica\S.I.A\S.I.A\bin\Debug\S.I.A.xml
+E:\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\sia.Alumnos.resources
+E:\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\sia.Eventos.resources
+E:\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\sia.Principal.resources
+E:\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\sia.Resources.resources
+E:\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\sia.Visitantes.resources
+E:\Sistema de Información Académica\S.I.A\S.I.A\obj\x86\Debug\S.I.A.vbproj.GenerateResource.Cache
+E:\Sia 2\S.I.A\S.I.A\obj\x86\Debug\S.I.A.exe
+E:\Sia 2\S.I.A\S.I.A\obj\x86\Debug\S.I.A.xml
+E:\Sia 2\S.I.A\S.I.A\obj\x86\Debug\S.I.A.pdb
+E:\Sia 2\S.I.A\S.I.A\bin\Debug\S.I.A.exe
+E:\Sia 2\S.I.A\S.I.A\bin\Debug\S.I.A.pdb
+E:\Sia 2\S.I.A\S.I.A\bin\Debug\S.I.A.xml
+E:\Sia 2\S.I.A\S.I.A\obj\x86\Debug\sia.Alumnos.resources
+E:\Sia 2\S.I.A\S.I.A\obj\x86\Debug\sia.Eventos.resources
+E:\Sia 2\S.I.A\S.I.A\obj\x86\Debug\sia.Principal.resources
+E:\Sia 2\S.I.A\S.I.A\obj\x86\Debug\sia.Resources.resources
+E:\Sia 2\S.I.A\S.I.A\obj\x86\Debug\sia.Visitantes.resources
+E:\Sia 2\S.I.A\S.I.A\obj\x86\Debug\S.I.A.vbproj.GenerateResource.Cache
+E:\Sia 2\S.I.A\S.I.A\obj\x86\Debug\sia.Documentos.resources
+E:\Sia 2\S.I.A\S.I.A\obj\x86\Debug\sia.Horario.resources
+C:\Users\Diego EG\Documents\Escuela\CECyT 8 Narciso Bassols Garcia\6IM12\Proyecto Informático\Sia 2\S.I.A\S.I.A\obj\x86\Debug\S.I.A.exe
+C:\Users\Diego EG\Documents\Escuela\CECyT 8 Narciso Bassols Garcia\6IM12\Proyecto Informático\Sia 2\S.I.A\S.I.A\obj\x86\Debug\S.I.A.xml
+C:\Users\Diego EG\Documents\Escuela\CECyT 8 Narciso Bassols Garcia\6IM12\Proyecto Informático\Sia 2\S.I.A\S.I.A\obj\x86\Debug\S.I.A.pdb
+C:\Users\Diego EG\Documents\Escuela\CECyT 8 Narciso Bassols Garcia\6IM12\Proyecto Informático\Sia 2\S.I.A\S.I.A\bin\Debug\S.I.A.exe
+C:\Users\Diego EG\Documents\Escuela\CECyT 8 Narciso Bassols Garcia\6IM12\Proyecto Informático\Sia 2\S.I.A\S.I.A\bin\Debug\S.I.A.pdb
+C:\Users\Diego EG\Documents\Escuela\CECyT 8 Narciso Bassols Garcia\6IM12\Proyecto Informático\Sia 2\S.I.A\S.I.A\bin\Debug\S.I.A.xml
+C:\Users\Diego EG\Documents\Escuela\CECyT 8 Narciso Bassols Garcia\6IM12\Proyecto Informático\Sia 2\S.I.A\S.I.A\obj\x86\Debug\sia.Alumnos.resources
+C:\Users\Diego EG\Documents\Escuela\CECyT 8 Narciso Bassols Garcia\6IM12\Proyecto Informático\Sia 2\S.I.A\S.I.A\obj\x86\Debug\sia.Documentos.resources
+C:\Users\Diego EG\Documents\Escuela\CECyT 8 Narciso Bassols Garcia\6IM12\Proyecto Informático\Sia 2\S.I.A\S.I.A\obj\x86\Debug\sia.Eventos.resources
+C:\Users\Diego EG\Documents\Escuela\CECyT 8 Narciso Bassols Garcia\6IM12\Proyecto Informático\Sia 2\S.I.A\S.I.A\obj\x86\Debug\sia.Horario.resources
+C:\Users\Diego EG\Documents\Escuela\CECyT 8 Narciso Bassols Garcia\6IM12\Proyecto Informático\Sia 2\S.I.A\S.I.A\obj\x86\Debug\sia.Principal.resources
+C:\Users\Diego EG\Documents\Escuela\CECyT 8 Narciso Bassols Garcia\6IM12\Proyecto Informático\Sia 2\S.I.A\S.I.A\obj\x86\Debug\sia.Resources.resources
+C:\Users\Diego EG\Documents\Escuela\CECyT 8 Narciso Bassols Garcia\6IM12\Proyecto Informático\Sia 2\S.I.A\S.I.A\obj\x86\Debug\sia.Visitantes.resources
+C:\Users\Diego EG\Documents\Escuela\CECyT 8 Narciso Bassols Garcia\6IM12\Proyecto Informático\Sia 2\S.I.A\S.I.A\obj\x86\Debug\S.I.A.vbproj.GenerateResource.Cache

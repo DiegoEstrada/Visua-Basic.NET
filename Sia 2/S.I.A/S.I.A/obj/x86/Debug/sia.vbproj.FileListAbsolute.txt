@@ -1,0 +1,10 @@
+C:\Users\cuates\AppData\Local\Temporary Projects\sia\bin\Debug\sia.exe
+C:\Users\cuates\AppData\Local\Temporary Projects\sia\bin\Debug\sia.pdb
+C:\Users\cuates\AppData\Local\Temporary Projects\sia\bin\Debug\sia.xml
+C:\Users\cuates\AppData\Local\Temporary Projects\sia\obj\x86\Debug\sia.Form1.resources
+C:\Users\cuates\AppData\Local\Temporary Projects\sia\obj\x86\Debug\sia.Resources.resources
+C:\Users\cuates\AppData\Local\Temporary Projects\sia\obj\x86\Debug\sia.vbproj.GenerateResource.Cache
+C:\Users\cuates\AppData\Local\Temporary Projects\sia\obj\x86\Debug\sia.exe
+C:\Users\cuates\AppData\Local\Temporary Projects\sia\obj\x86\Debug\sia.xml
+C:\Users\cuates\AppData\Local\Temporary Projects\sia\obj\x86\Debug\sia.pdb
+C:\Users\cuates\AppData\Local\Temporary Projects\sia\obj\x86\Debug\sia.Visitantes.resources
